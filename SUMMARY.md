@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](intro.md)
+* The presentation tier
 
